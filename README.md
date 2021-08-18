@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @alandrade2
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+SEJA BEM VINDO(a)!!!!
+
+- Meu nome é André Luiz, sou contador de profissão, tenho 30 anos de carreira.
+- Meu hobby preferido e programar, comecei montando planilhas de Excel, aprendi a programar em VBA e depois me especializei em Visual Basic 6.
+- Em 2021 ingressei na FATEC em Franca e agora começo minha jornada em desenvolvimento WEB. 
+- O Objetivo? transformar várias de minhas ideias feitas em VB6, em aplicações WEB, sem perder minha paixão principal - "Aplicações DESKTOP".  
+- Por isso, quero misturar HTML e CSS, com python e JS, tudo dentro de aplicações feitas em Electron. BORA LÁ!!!!
+
 
  <div>
   <a href="https://github.com/alandrade2">
