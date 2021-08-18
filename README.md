@@ -21,6 +21,8 @@ SEJA BEM VINDO(a)!!!!
   <img align="center" alt="alandrade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alandrade-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="alandrade-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" alt="alandrade-nestJS" height="30" width="40" src="https://miro.medium.com/max/500/1*GGy6YD5EJoWIzT22YWNp1Q.png">  
+ 
 </div>
    
  ##
