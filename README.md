@@ -20,7 +20,14 @@ SEJA BEM VINDO(a)!!!!
   <img align="center" alt="alandrade-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="alandrade-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="alandrade-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="alandrade-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="alandrade-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 </div>
-  
-  ##  
+   
+ ##
+  Linguagens com experiencia...
+<div style="display: inline_block"><br>
+  <img align="center" alt="alandrade-VB-6" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/e/e4/Visual_Basic_6.0_logo.png">
+ 
+</div> 
+ 
+ 
